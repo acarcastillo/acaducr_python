@@ -11,4 +11,4 @@ _This repositroy is exclusive to upload examples of python._
 ## Autores ✒️
 
 
-* **Carlos Castillo Aleman** - *Trabajo Inicial* - [acarcastillo](https://github.com/acarcastillo)
+* **Carlos Castillo Aleman** - *Initial work* - [acarcastillo](https://github.com/acarcastillo)
