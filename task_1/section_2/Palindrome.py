@@ -1,5 +1,3 @@
-print ("Hello")
-
 def is_palindrome(input_user):
     input_user = input_user.replace(" ", "").lower()
     return input_user == input_user[::-1]
