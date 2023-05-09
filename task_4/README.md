@@ -1,4 +1,4 @@
-Funciones de Python
+#Funciones de Python
 Este repositorio contiene varias funciones en Python:
 
 count_special_characters: función que cuenta e imprime la cantidad de caracteres especiales, números y letras presentes en una cadena de texto usando expresiones regulares.
