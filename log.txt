@@ -1,0 +1,7 @@
+2023-04-29 13:54:33.033761El resultado de la función sumar es: 3.0
+2023-04-29 13:55:08.590686El resultado de la función potencia es: 8.0
+2023-04-29 13:55:51.002663El resultado de la función factorial es: 120
+2023-04-29 13:56:29.461329 El resultado de la función sumar es: 8.0
+2023-04-29 13:57:33.462990 El resultado de la función dividir es: 1.6666666666666667
+2023-04-29 14:14:40.755222 El resultado de la función sumar es: 4.0
+2023-04-29 14:22:17.700938 El resultado de la función dividir es: 0.5
