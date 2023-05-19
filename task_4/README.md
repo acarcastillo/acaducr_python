@@ -1,15 +1,16 @@
-Funciones de Python
-Este repositorio contiene varias funciones en Python:
+# Funciones de Python
 
-count_special_characters: función que cuenta e imprime la cantidad de caracteres especiales, números y letras presentes en una cadena de texto usando expresiones regulares.
+## Este repositorio contiene varias funciones en Python:
 
-count_characters: función que cuenta y devuelve un diccionario con la cantidad de apariciones de cada caracter en una lista.
+- count_special_characters: función que cuenta e imprime la cantidad de caracteres especiales, números y letras presentes en una cadena de texto usando expresiones regulares.
 
-delete_element: función que elimina todas las apariciones de un elemento en una lista.
+- count_characters: función que cuenta y devuelve un diccionario con la cantidad de apariciones de cada caracter en una lista.
 
-print_list_and_tuple: función que recibe una secuencia de números separados por coma por parte del usuario e imprime una lista y una tupla que contienen dichos valores.
+- delete_element: función que elimina todas las apariciones de un elemento en una lista.
 
-Uso
+- print_list_and_tuple: función que recibe una secuencia de números separados por coma por parte del usuario e imprime una lista y una tupla que contienen dichos valores.
+
+## Uso del programa
 Para utilizar cualquiera de las funciones, simplemente importa el módulo que contiene la función y llama a la función pasando los parámetros correspondientes.
 
 Ejemplo
@@ -32,7 +33,7 @@ funciones_python.delete_element(lista, elemento)
 
 funciones_python.print_list_and_tuple()
 
-Contribuyendo
+# Contribuyendo
 Si deseas contribuir a este proyecto, por favor abre un pull request con tus sugerencias o mejoras.
 
 ## Autor
